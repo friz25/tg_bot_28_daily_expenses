@@ -17,3 +17,10 @@ multidict=4.7.3
 pytz==2019.3
 yarl==1.4.2
 ```
+## Screenshot
+
+![Logo](https://i.ibb.co/hM7TNPH/tg-bot-expenses-28.jpg)
+
+## Last Expenses :
+
+![Logo](https://i.ibb.co/8Ybd7c1/tg-bot-expenses-28-2.jpg)
